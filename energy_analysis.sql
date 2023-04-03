@@ -16,7 +16,7 @@ ORDER BY 2 DESC;
 -- followed by offices at 485.
 
 
--- Distribution of building proprty type building
+-- Distribution of each building's property type
 SELECT 
 	property_type,
 	COUNT(*) 
