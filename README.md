@@ -1,4 +1,4 @@
-# Seattle-Energy-Usage
+# Seattle Energy Usage
 
 ## Goal
 The goal of this analysis project is to identify buildings in Seattle, Washington that perform poorly in terms of energy usage. The focus will be on investigating energy usage for buildings with similar purposes.
